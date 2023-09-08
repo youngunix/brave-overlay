@@ -3,7 +3,7 @@ Please submit issues to https://gitlab.com/jason.oliveira/brave-overlay
 
 ### How to add this repo in eselect:
 
-    sudo eselect repository enable brave-overlay    
+    sudo eselect repository add brave-overlay git https://gitlab.com/jason.oliveira/brave-overlay.git
     sudo emerge --sync brave-overlay    
     sudo emerge www-client/brave-bin::brave-overlay    
 
