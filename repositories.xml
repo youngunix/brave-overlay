@@ -4,12 +4,12 @@
   <repo quality="experimental" status="unofficial">
     <name><![CDATA[brave-overlay]]></name>
     <description lang="en"><![CDATA[Brave Overlay]]></description>
-    <homepage>https://gitlab.com/jason.oliveira/brave-overlay</homepage>
+    <homepage>https://github.com/youngunix/brave-overlay</homepage>
     <owner type="person">
-      <email>jason.oliveira@medicalcannab.is</email>
-      <name><![CDATA[Jason Oliveira]]></name>
+      <email>zagazaw2004@gmail.com</email>
+      <name><![CDATA[youngunix]]></name>
     </owner>
-    <source type="git">https://gitlab.com/jason.oliveira/brave-overlay.git</source>
-    <feed>https://gitlab.com/jason.oliveira/brave-overlay/commits/master.atom</feed>
+    <source type="git">https://github.com/youngunix/brave-overlay.git</source>
+    <feed>https://github.com/youngunix/brave-overlay/commits/master.atom</feed>
   </repo>
 </repositories>
